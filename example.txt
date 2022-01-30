@@ -1,0 +1,6 @@
+my first line
+my second line
+my thrid line
+anilkbingu
+:wq
+
